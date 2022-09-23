@@ -1,0 +1,11 @@
+.About {
+  background-image: radial-gradient(
+    circle,
+    #f8c5e1,
+    #ffc8cb,
+    #fbd1bd,
+    #ebdabb,
+    #dae3c6
+  );
+  height: 950px;
+}

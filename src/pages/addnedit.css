@@ -1,0 +1,30 @@
+.writeInput {
+  width: 100%;
+  border-radius: 4px;
+  height: 45px;
+  border-color: #83ccc5;
+  font-size: large;
+}
+.categoryDropdown {
+  width: 50%;
+  border-radius: 4px;
+  height: 35px;
+  border-color: #83ccc5;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.writeDescription {
+  width: 100%;
+  border-radius: 4px;
+  height: 500px;
+  border-color: #83ccc5;
+  margin: 10px 0;
+}
+.danger {
+  background-color: rgb(202, 44, 83);
+  color: aliceblue;
+  border-radius: 10%;
+  outline: none;
+  border: none;
+  margin: 10px;
+}
